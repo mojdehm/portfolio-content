@@ -1,3 +1,12 @@
 {
-  "name":"Mojdeh"
+  "main-section": {
+    "title": "Introduction",
+    "content": "Mojdeh is a dedicated Ph.D. student specializing in orofacial pain and jaw function. With a strong background in general dentistry and oral medicine, she is committed to advancing the field through her research on epigenetic and nutritional risk factors for painful temporomandibular disorders."
+  },
+  "sections": [
+    {
+      "title": "Current Research",
+      "content": "As a Ph.D. student at Aarhus University, Mojdeh is focused on exploring the epigenetic and nutritional risk factors for painful temporomandibular disorders. Her research aims to identify potential preventive measures and treatments for these conditions.",
+    }
+  ]
 }
