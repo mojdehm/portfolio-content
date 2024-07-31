@@ -1,0 +1,23 @@
+{
+  "main": {
+    "title": "Selected Publications",
+    "list": [
+      {
+        "item": "Mansoori M., Exposto C.R., Bech B.H., Olsen S.F., Bjerregaard A.A., Diatchenko L., Baad-Hansen L. Adolescent dietary quality as a risk factor for painful TMD and headaches in young adults.",
+        "status": "in preparation",
+        "link": ""
+      },
+      {
+        "item": "Mansoori M., Zarei MR, Chamani G, Nazeri M., Mohamadi F., Alavi SS., Shabani M. Chronic migraine caused a higher rate of tendency to cannabinoid agonist compared to morphine: Tendency to use cannabis in chronic Migraine. Acta Bio Medica. 2020;91:e2020185.",
+        "status": "published",
+        "link": "foo.com"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "title": "exa",
+      "content": "sample"
+    }
+  ]
+}
