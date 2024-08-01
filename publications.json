@@ -1,6 +1,6 @@
 {
   "main": {
-    "title": "Selected Publications",
+    "title": "Publications",
     "list": [
       {
         "item": "Mansoori M., Exposto C.R., Bech B.H., Olsen S.F., Bjerregaard A.A., Diatchenko L., Baad-Hansen L. Adolescent dietary quality as a risk factor for painful TMD and headaches in young adults.",
@@ -10,17 +10,20 @@
       {
         "item": "Mansoori M., Zarei MR, Chamani G, Nazeri M., Mohamadi F., Alavi SS., Shabani M. Chronic migraine caused a higher rate of tendency to cannabinoid agonist compared to morphine: Tendency to use cannabis in chronic Migraine. Acta Bio Medica. 2020;91:e2020185.",
         "status": "published",
-        "link": "https://github.com/mojdehm"
+        "link": "https://www.mattioli1885journals.com/index.php/actabiomedica/article/view/8799"
+      },
+      {
+        "item": "Navabi N, Zeynali M, Mansori M, Hashemipour MA, Nassab SA. Patients Attitudes' Toward Chairside Medical Screening in a Dental Setting. Pesquisa Brasileira em Odontopediatria e Clínica Integrada. 2020;20:4880.",
+        "status": "published",
+        "link": "http://revista.uepb.edu.br/index.php/pboci/article/view/4880"
+      },
+      {
+        "item": "Raoof M, Soofiabadi S, Abbasnejad M, Kooshki R, Esmaeili‐Mahani S, Mansoori M. Activation of orexin 1 receptors in the ventrolateral periaqueductal gray matter (vlPAG) modulates pulpal nociception and the induction of substance P in vlPAG and trigeminal nucleus caudalis. International endodontic journal. 2019;52:318-28.",
+        "status": "published",
+        "link": "https://onlinelibrary.wiley.com/doi/abs/10.1111/iej.13007"
       }
+      
     ]
   },
-  "sections": [
-    {
-      "title": "exa",
-      "content": [
-        "sample first paragraph",
-        "sample second paragraph"
-      ]
-    }
-  ]
+  "sections": []
 }
