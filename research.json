@@ -1,17 +1,17 @@
 {
-  "sections":[
+  "sections": [
     {
-      "title": "Current Research",
+      "title": "PhD Project",
       "content": [
         "As a Ph.D. student at Aarhus University, Mojdeh is focused on exploring the epigenetic and nutritional risk factors for painful temporomandibular disorders.",
-        "Her research aims to identify potential preventive measures and treatments for these conditions."
+        "Her research aims to identify potential risk factors and preventive measures for painful temporomandibular disorders."
       ]
     },
     {
-      "title": "Second",
+      "title": "Additional Research",
       "content": [
-        "Example 1",
-        "Example 2"
+        "Association between Pre-adolescent Spinal Pain and Painful Temporomandibular Disorders in Young Adulthood",
+        "The results of this study have been presented at the IASP Conference 2024."
       ]
     }
   ]
