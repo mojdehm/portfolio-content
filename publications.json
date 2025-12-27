@@ -2,6 +2,31 @@
   "main": {
     "title": "Publications",
     "list": [
+            {
+        "item": "Eghbali H, Abbasnejad M, Raoof M, Zamyad M, Esmaeili-Mahani S, Kooshki R, Mansoori M, Lobbezoo F. Alpha-pinene modulates feeding behavior and hypothalamic orexin A expression in a rat model of painful temporomandibular disorder. J Oral Facial Pain Headache.",
+        "status": "in press",
+        "link": ""
+      },
+      {
+        "item": "Exposto CR, Mansoori M, Bech BH, Bjerregaard AA, Olsen SF, Baad‐Hansen L. Pre‐natal nutrition as risk factor for painful temporomandibular disorders and headaches in young adults. Headache: The Journal of Head and Face Pain. 2025 Aug 19.",
+        "status": "published",
+        "link": "https://headachejournal.onlinelibrary.wiley.com/doi/full/10.1111/head.15030"
+      },
+      {
+        "item": "Raoof M, Fereidooni R, Afzali M, Mansoori M, Amanpour S, Rad M. Exploring the Etiology of Dental Fear Among Candidates for Endodontic Treatment: A Qualitative Investigation. Tanzania Journal of Health Research. 2025 Jul 23;26(4):2355-63.",
+        "status": "published",
+        "link": "https://www.ajol.info/index.php/thrb/article/view/282055"
+      },
+      {
+        "item": "Ghorbanizadeh S, Abbasnejad M, Zamyad M, Esmaeili-Mahani S, Kheirandish R, Mansoori M. Impact of temporomandibular disorder on food preference behavior in adult male rats. Archives of Oral Biology. 2025 Jan 1;169:106100.",
+        "status": "published",
+        "link": "https://www.sciencedirect.com/science/article/abs/pii/S0003996924002218"
+      },
+      {
+        "item": "Exposto CR, Mansoori M, Bech BH, Baad‐Hansen L. Prevalence of painful temporomandibular disorders and overlapping primary headaches among young adults. European Journal of Pain. 2025 May;29(5):e70013.",
+        "status": "published",
+        "link": "https://onlinelibrary.wiley.com/doi/full/10.1002/ejp.70013"
+      },
       {
         "item": "Mansoori M, Exposto CR, Bech BH, Olsen SF, Bjerregaard AA, Baad‐Hansen L. Is poor dietary quality in adolescence a risk factor for painful temporomandibular disorders and headaches in young adulthood? A prospective study in the Danish National Birth Cohort. Headache: The Journal of Head and Face Pain. 2025 May;65(5):731-44.",
         "status": "published",
