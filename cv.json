@@ -6,18 +6,27 @@
       "date": "1 May 2026 – present",
       "role": "Postdoctoral Researcher — Orofacial pain and jaw function",
       "org": "Department of Dentistry and Oral Health, Aarhus University, Denmark",
-      "detail": "Project: \"Life-course and epigenetic analyses of painful temporomandibular disorders\" — investigating epigenetic mechanisms underlying vulnerability to p-TMD, in collaboration with Prof. Lene Baad-Hansen and Assoc. Prof. Bodil Hammer Bech (Aarhus University) and Prof. Luda Diatchenko (McGill University)"
+      "notes": [
+        "Project: \"Life-course and epigenetic analyses of painful temporomandibular disorders\"",
+        "In collaboration with Prof. Lene Baad-Hansen and Assoc. Prof. Bodil Hammer Bech (Aarhus University) and Prof. Luda Diatchenko (McGill University)"
+      ]
     },
     {
       "date": "2022 – 2026",
       "role": "PhD Researcher — Orofacial pain and jaw function",
-      "org": "Department of Dentistry and Oral Health, Aarhus University, Denmark"
+      "org": "Department of Dentistry and Oral Health, Aarhus University, Denmark",
+      "notes": [
+        "Supervisor: Prof. Lene Baad-Hansen, Aarhus University",
+        "Co-supervisors: Prof. Bodil Hammer Bech, Aarhus University; Prof. Luda Diatchenko, McGill University"
+      ]
     },
     {
       "date": "2018 – 2022",
       "role": "Clinical Practitioner — Oral Medicine",
       "org": "Bahonar Hospital, Kerman University of Medical Sciences, Iran / Roshan Dental Clinic, Kerman, Iran",
-      "detail": "Clinical focus: oral mucosal diseases, orofacial pain, temporomandibular disorders"
+      "notes": [
+        "Clinical focus: oral mucosal diseases, orofacial pain, temporomandibular disorders"
+      ]
     }
   ],
   "skills": [
@@ -50,12 +59,17 @@
   "education": [
     {
       "content": "PhD, Aarhus University, Denmark (2022 – 2026)",
-      "detail": "Dissertation: \"Painful temporomandibular disorders and headache in young adulthood: early-life factors and multidimensional clinical characterization\" — defended 4 September 2026"
+      "notes": [
+        "Dissertation: \"Painful temporomandibular disorders and headache in young adulthood: early-life factors and multidimensional clinical characterization\" — defended 4 September 2026"
+      ]
     },
     {
       "content": "MSc in Oral Medicine (2014 – 2017)",
       "org": "Kerman University of Medical Sciences, Iran",
-      "detail": "Thesis: \"Effects of chronic facial pain on the tendency to use morphine and cannabinoids in conditioned place preference in male rats\""
+      "notes": [
+        "Thesis: \"Effects of chronic facial pain on the tendency to use morphine and cannabinoids in conditioned place preference in male rats\"",
+        "Supervisors: Associate Prof. Mohammad Reza Zarei; Prof. Goli Chamani"
+      ]
     },
     {
       "content": "Doctor of Dental Surgery (DDS) (2006 – 2012)",
