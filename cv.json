@@ -78,7 +78,11 @@
     },
     {
       "content": "Doctor of Dental Surgery (DDS) (2006 – 2012)",
-      "org": "Kerman University of Medical Sciences, Iran"
+      "org": "Kerman University of Medical Sciences, Iran",
+      "notes": [
+        "Thesis: \"Relationship between xerostomia and oral health-related quality of life in patients with rheumatoid arthritis\"",
+        "Supervisor: Prof. Goli Chamani"
+      ]
     }
   ],
   "service": [
