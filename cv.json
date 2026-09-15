@@ -1,0 +1,67 @@
+{
+  "pdf": "cv/Mojdeh-Mansoori-CV.pdf",
+  "profile": "Researcher in orofacial pain with a primary focus on epidemiological and clinical studies of painful temporomandibular disorder (p-TMD). In September 2026, she defended her PhD dissertation, \"Painful temporomandibular disorders and headache in young adulthood: early-life factors and multidimensional clinical characterization,\" at Aarhus University, integrating prospective cohort analyses from the Danish National Birth Cohort (DNBC) with clinical phenotyping to examine early-life and lifestyle-related determinants of p-TMD in young adulthood. As a Postdoctoral Researcher, she continues this work, building on the data and collaborations established within the DNBC.",
+  "positions": [
+    {
+      "date": "1 May 2026 – present",
+      "role": "Postdoctoral Researcher — Orofacial pain and jaw function",
+      "org": "Department of Dentistry and Oral Health, Aarhus University, Denmark"
+    },
+    {
+      "date": "2022 – 2026",
+      "role": "PhD Researcher — Orofacial pain and jaw function",
+      "org": "Department of Dentistry and Oral Health, Aarhus University, Denmark"
+    }
+  ],
+  "skills": [
+    "Prospective cohort studies",
+    "Epidemiological studies of p-TMD and headache",
+    "Clinical phenotyping and questionnaire-based pain data",
+    "Statistical analysis (STATA, R, and SPSS)",
+    "Epigenetic and integrative data analysis (conceptual + ongoing)",
+    "Experimental animal models of orofacial pain"
+  ],
+  "teaching": [
+    {
+      "content": "Teaching in Orofacial Pain and Jaw Function, preclinical dental curriculum (oral physiology) (2022–2026)",
+      "org": "Department of Dentistry and Oral Health, Aarhus University — approx. 150+ hours of teaching during PhD period"
+    },
+    {
+      "content": "Lecturer in Oral Medicine, undergraduate dental students",
+      "org": "Kashan University of Medical Sciences (2017–2018)"
+    },
+    {
+      "content": "Lecturer, workshops on research principles and oral medicine",
+      "org": "Kerman University of Medical Sciences (2014–2017)"
+    }
+  ],
+  "conferences": [
+    "European Academy of Orofacial Pain and Dysfunction (EAOPD) Conference, Athens, Greece, 18–19 September 2026 – Poster presentation",
+    "International Association for the Study of Pain (IASP) World Congress, 2024 – Oral and poster presentations",
+    "European Academy of Orofacial Pain and Dysfunction (EAOPD), 2023 – Poster presentation"
+  ],
+  "education": [
+    {
+      "content": "PhD, Aarhus University, Denmark (2022 – 2026)",
+      "detail": "Dissertation: \"Painful temporomandibular disorders and headache in young adulthood: early-life factors and multidimensional clinical characterization\" — defended 4 September 2026"
+    },
+    {
+      "content": "MSc in Oral Medicine (2014 – 2017)",
+      "org": "Kerman University of Medical Sciences, Iran",
+      "detail": "Thesis: \"Effects of chronic facial pain on the tendency to use morphine and cannabinoids in conditioned place preference in male rats\""
+    },
+    {
+      "content": "Doctor of Dental Surgery (DDS) (2006 – 2012)",
+      "org": "Kerman University of Medical Sciences, Iran"
+    }
+  ],
+  "service": [
+    "Reviewer, Journal of Oral Rehabilitation",
+    "Reviewer, Addiction & Health",
+    "Reviewer, NeuroImage"
+  ],
+  "honors": [
+    "Iranian Board of Oral Medicine, 2017",
+    "Ranked 1st among all postgraduate students"
+  ]
+}
