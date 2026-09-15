@@ -1,17 +1,23 @@
 {
   "main-section": {
-    "title": "Introduction",
+    "title": "Mojdeh Mansoori, PhD",
     "content": [
-      "Mojdeh is a dedicated Ph.D. student specializing in orofacial pain and jaw function.",
-      "With a strong background in general dentistry and oral medicine, she is committed to advancing the field through her research on epigenetic and nutritional risk factors for painful temporomandibular disorders."
+      "Postdoctoral Researcher at the Section for Orofacial Pain and Jaw Function, Department of Dentistry and Oral Health, Aarhus University.",
+      "Her research focuses on early-life risk factors and multidimensional clinical characterization of painful temporomandibular disorders (TMD) and headache, using data from the Danish National Birth Cohort."
     ]
   },
+  "news": [
+    {
+      "date": "2026-09-04",
+      "content": "Successfully defended her PhD dissertation, \"Painful temporomandibular disorders and headache in young adulthood: early-life factors and multidimensional clinical characterization,\" at Aarhus University."
+    }
+  ],
   "sections": [
     {
       "title": "Current Research",
       "content": [
-        "As a Ph.D. student at Aarhus University, Mojdeh is focused on exploring the epigenetic and nutritional risk factors for painful temporomandibular disorders.",
-        "Her research aims to identify potential preventive measures and treatments for these conditions."
+        "As a Postdoctoral Researcher at Aarhus University, Mojdeh continues to work on painful temporomandibular disorders and headache, building on her PhD research within the Danish National Birth Cohort.",
+        "Her work aims to identify early-life risk factors and clinical phenotypes that can inform prevention and treatment of these conditions."
       ]
     }
   ]
