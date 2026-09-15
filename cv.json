@@ -1,11 +1,12 @@
 {
   "pdf": "cv/Mojdeh-Mansoori-CV.pdf",
-  "profile": "Researcher in orofacial pain with a primary focus on epidemiological and clinical studies of painful temporomandibular disorder (p-TMD). In September 2026, she defended her PhD dissertation, \"Painful temporomandibular disorders and headache in young adulthood: early-life factors and multidimensional clinical characterization,\" at Aarhus University, integrating prospective cohort analyses from the Danish National Birth Cohort (DNBC) with clinical phenotyping to examine early-life and lifestyle-related determinants of p-TMD in young adulthood. As a Postdoctoral Researcher, she continues this work, building on the data and collaborations established within the DNBC.",
+  "profile": "Researcher in orofacial pain with a primary focus on epidemiological, clinical, and epigenetic studies of painful temporomandibular disorder (p-TMD). In September 2026, she defended her PhD dissertation, \"Painful temporomandibular disorders and headache in young adulthood: early-life factors and multidimensional clinical characterization,\" at Aarhus University, integrating prospective cohort analyses from the Danish National Birth Cohort (DNBC) with clinical phenotyping to examine early-life and lifestyle-related determinants of p-TMD in young adulthood. As a Postdoctoral Researcher, she now leads the project \"Life-course and epigenetic analyses of painful temporomandibular disorders,\" investigating epigenetic mechanisms — including genome-wide DNA methylation — underlying vulnerability to p-TMD, building on the data and biological samples collected during her PhD.",
   "positions": [
     {
       "date": "1 May 2026 – present",
       "role": "Postdoctoral Researcher — Orofacial pain and jaw function",
-      "org": "Department of Dentistry and Oral Health, Aarhus University, Denmark"
+      "org": "Department of Dentistry and Oral Health, Aarhus University, Denmark",
+      "detail": "Project: \"Life-course and epigenetic analyses of painful temporomandibular disorders\" — investigating epigenetic mechanisms underlying vulnerability to p-TMD, in collaboration with Prof. Lene Baad-Hansen and Assoc. Prof. Bodil Hammer Bech (Aarhus University) and Prof. Luda Diatchenko (McGill University)"
     },
     {
       "date": "2022 – 2026",
@@ -24,7 +25,7 @@
     "Epidemiological studies of p-TMD and headache",
     "Clinical phenotyping and questionnaire-based pain data",
     "Statistical analysis (STATA, R, and SPSS)",
-    "Epigenetic and integrative data analysis (conceptual + ongoing)",
+    "Epigenome-wide DNA methylation analysis (Illumina EPIC arrays)",
     "Experimental animal models of orofacial pain"
   ],
   "teaching": [
